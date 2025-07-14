@@ -6,7 +6,7 @@
     background: rgba(247, 246, 246, 0.9);
     padding: 10px 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     z-index: 1000;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
